@@ -13,6 +13,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 in the meet they annouced to start the development of the UI
 
-so i'm gonna start from july month
+so i'm gonna start from july month and finish asap
 
 
